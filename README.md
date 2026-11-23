@@ -10,7 +10,7 @@ This project explores whether Falcon 9 first-stage landing outcomes can be predi
 
 ## Dataset
 
-Use the standard IBM/Coursera SpaceX dataset. The main modeling file is `dataset_part_2.csv`. Public course dataset copies can be found in repositories such as https://github.com/rampal-punia/IBM-DS-Capstone-Project-SpaceX; verify licensing/provenance and file contents before redistributing. Dataset is not currently committed to this repository.
+Use the standard IBM/Coursera SpaceX dataset. The main modeling file is `dataset_part_2.csv`. Public course dataset copies can be found in repositories such as https://github.com/rampal-punia/IBM-DS-Capstone-Project-SpaceX; verify licensing/provenance and file contents before redistributing. The standard course `dataset_part_2.csv` is included under `data/`, sourced from a public course dataset repository. Please check the source attribution and course terms before redistribution.
 
 ## Project files
 
